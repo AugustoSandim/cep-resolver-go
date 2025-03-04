@@ -11,17 +11,11 @@ cep-resolver-go/
 ├── internal/
 │   ├── handlers/
 │   │   ├── address_handler.go
-│   │   └── address_handler_test.go
 │   ├── services/
 │   │   ├── brasil_api.go
-│   │   ├── brasil_api_test.go
-│   │   ├── viacep_api.go
-│   │   └── viacep_api_test.go
+│   │   └── viacep_api.go
 │   └── models/
 │       └── address.go
-├── pkg/
-│   └── utils/
-│       └── http_client.go
 ├── go.mod
 └── go.sum
 ```
